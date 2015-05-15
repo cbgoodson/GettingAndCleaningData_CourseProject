@@ -15,22 +15,22 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Files in Repository
 - **run_analysis.R**: This script will transform the raw data into the new tidy data set as described in the Project Overview.  See "Raw Data" & "Details..." sections for more information
-- **course_project_new_tidy.csv**: the output data set from run_analysis.R
-- **CodeBook.md**: describes the variables in course_project_new_tidy.csv
+- **course_project_new_tidy.txt**: the output data set from run_analysis.R
+- **CodeBook.md**: describes the variables in course_project_new_tidy.txt
 
 ## Raw data
 The raw data can be downloaded here  
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 run_analysis.R needs the following files from thie data set:  
--activity_labels.txt  
--features.txt  
--train/subject_train.txt  
--train/X_train.txt  
--train/y_train.txt  
--test/subject_test.txt  
--test/X_test.txt  
--test/y_test.txt  
+- activity_labels.txt  
+- features.txt  
+- train/subject_train.txt  
+- train/X_train.txt  
+- train/y_train.txt  
+- test/subject_test.txt  
+- test/X_test.txt  
+- test/y_test.txt  
 
 ## Details on run_analysis.R execution
 

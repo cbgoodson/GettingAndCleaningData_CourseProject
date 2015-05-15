@@ -3,7 +3,7 @@ title: "CodeBook"
 output: html_document
 ---
 
-This CodeBook is for course_project_new_tidy.csv
+This CodeBook is for course_project_new_tidy.txt
 
 ##Observations  
 There are 180 observations, representing the aggregation of data collected for each of 6 actvities and 30 subjects.  
